@@ -77,7 +77,8 @@ nav ul li a:hover::after {
   color: #ff004f;
 }
 #Intro-section {
-  background: url(../img/New.jpg);
+  /* background: url(../img/New.jpg); */
+  background: url(./img/New.jpg);
   min-height: 100vh;
   background-position: center;
   background-size: cover;
